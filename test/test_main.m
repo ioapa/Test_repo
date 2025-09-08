@@ -21,7 +21,7 @@ disp('**********************************')
 
 % Load and run config file
 disp('Loading config. file...')
-fullConfigPath          = './status_config.m';git 
+fullConfigPath          = './test_config.m';
 run(fullConfigPath);
 
 
